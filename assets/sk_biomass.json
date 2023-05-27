@@ -1,0 +1,141 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "ID" : "ID",
+    "COMP_NM" : "COMP_NM",
+    "ADDRESS" : "ADDRESS",
+    "COMP_TYPE" : "COMP_TYPE",
+    "COMP_GRP" : "COMP_GRP",
+    "PROVINCE" : "PROVINCE",
+    "POINT_X" : "POINT_X",
+    "POINT_Y" : "POINT_Y"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 32647,
+    "latestWkid" : 32647
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "ID",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "ID"
+    },
+    {
+      "name" : "COMP_NM",
+      "type" : "esriFieldTypeString",
+      "alias" : "COMP_NM",
+      "length" : 133
+    },
+    {
+      "name" : "ADDRESS",
+      "type" : "esriFieldTypeString",
+      "alias" : "ADDRESS",
+      "length" : 131
+    },
+    {
+      "name" : "COMP_TYPE",
+      "type" : "esriFieldTypeString",
+      "alias" : "COMP_TYPE",
+      "length" : 100
+    },
+    {
+      "name" : "COMP_GRP",
+      "type" : "esriFieldTypeString",
+      "alias" : "COMP_GRP",
+      "length" : 54
+    },
+    {
+      "name" : "PROVINCE",
+      "type" : "esriFieldTypeString",
+      "alias" : "PROVINCE",
+      "length" : 15
+    },
+    {
+      "name" : "POINT_X",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "POINT_X"
+    },
+    {
+      "name" : "POINT_Y",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "POINT_Y"
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "ID" : 1,
+        "COMP_NM" : "บริษัท กรีนไบโอแมสอินดัสทรี จำกัด",
+        "ADDRESS" : "99 หมู่ 8 ตำบลคู อำเภอจะนะ จังหวัดสงขลา 90130",
+        "COMP_TYPE" : "โรงงานผลิตของเล่นจากไม้ยางพารา",
+        "COMP_GRP" : "ผู้ผลิตชีวมวลสงขลา",
+        "PROVINCE" : "สงขลา",
+        "POINT_X" : 100.718469871,
+        "POINT_Y" : 6.8705668534099997
+      },
+      "geometry" : {
+        "x" : 100.71846987089643,
+        "y" : 6.8705668534086435
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "ID" : 2,
+        "COMP_NM" : "บริษัท เซาท์เทิร์น รีนิวเอเบิล เอนเนอร์จี จำกัด",
+        "ADDRESS" : "345 หมู่ที่ 5 ตำบลกำแพงเพชร อำเภอรัตภูมิ จ.สงขลา 90180",
+        "COMP_TYPE" : "โรงงานผลิตของเล่นจากไม้ยางพารา",
+        "COMP_GRP" : "ผู้ผลิตชีวมวลสงขลา",
+        "PROVINCE" : "สงขลา",
+        "POINT_X" : 100.252996838,
+        "POINT_Y" : 7.0962516890399998
+      },
+      "geometry" : {
+        "x" : 100.25299683799975,
+        "y" : 7.0962516890394571
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "ID" : 3,
+        "COMP_NM" : "บริษัท ดิ อีเนอร์ยี่ เอ็กซ์เพรส จำกัด",
+        "ADDRESS" : "168 หมู่ที่ 13 ตำบลกำแพงเพชร อำเภอรัตภูมิ จ.สงขลา 90180",
+        "COMP_TYPE" : "โรงงานผลิตของเล่นจากไม้ยางพารา",
+        "COMP_GRP" : "ผู้ผลิตชีวมวลสงขลา",
+        "PROVINCE" : "สงขลา",
+        "POINT_X" : 100.31002975600001,
+        "POINT_Y" : 7.1042869845999999
+      },
+      "geometry" : {
+        "x" : 100.31002975627186,
+        "y" : 7.1042869845978132
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "ID" : 6,
+        "COMP_NM" : "บริษัท ไทย เอ็นเนอร์ยี โซลูชั่น จำกัด",
+        "ADDRESS" : "260 หมู่ที่ 4 ตำบลลำไพล อำเภอเทพา จ.สงขลา 90260",
+        "COMP_TYPE" : "โรงงานผลิตของเล่นจากไม้ยางพารา",
+        "COMP_GRP" : "ผู้ผลิตชีวมวลสงขลา",
+        "PROVINCE" : "สงขลา",
+        "POINT_X" : 100.944364189,
+        "POINT_Y" : 6.76088115695
+      },
+      "geometry" : {
+        "x" : 100.94436418894297,
+        "y" : 6.7608811569472431
+      }
+    }
+  ]
+}

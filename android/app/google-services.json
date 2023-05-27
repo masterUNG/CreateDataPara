@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546201660376",
+    "project_id": "createdatapara",
+    "storage_bucket": "createdatapara.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546201660376:android:fe293b6fc3f9f54e5320ad",
+        "android_client_info": {
+          "package_name": "com.masterung.createdatapara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Pq5yuScK3vR76V_6tJHPKjRV_07Z8mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
